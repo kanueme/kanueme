@@ -1,3 +1,4 @@
+- About me 
 - 👋 Hi, I’m @kanueme or Emeka
 - I am i network engineer 
 - 👀 I’m interested in cryptocurrency
